@@ -1,7 +1,9 @@
 # evolutionary-algorithms
 Python project that contains 3 folders with applications that solve problems through methods inspired by nature using evolutionary algorithms.
 
-Key concepts are evolutionary algorithms and the Ant Colony Optimization (ACO) algorithm.
+## Key concepts:
+- evolutionary algorithms
+- the Ant Colony Optimization (ACO) algorithm
 
 ### The problem of identifying communities in a complex network
 
